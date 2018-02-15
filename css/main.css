@@ -5,20 +5,13 @@
   padding: 0;
 }
 
-header {
-  background-color: #0a0a0a;
-  color: #fff;
-  overflow: auto;
-  padding: 1.5em 0;
+.navbar {
+  margin-bottom: 0;
+  padding: 1.2em;
 }
 
-.title {
-  float: right;
-  padding-right: 1em;
-}
-
-.main-title {
-  font-weight: bold;
+.navbar-brand {
+  padding: 0;
 }
 
 img, .container {
@@ -81,4 +74,8 @@ footer {
     margin: 0 auto;
     padding: 14% 4%;
   }
+}
+/* Estilos del form */
+.subscribe-form {
+  display: none;
 }

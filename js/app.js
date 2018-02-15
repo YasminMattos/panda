@@ -1,10 +1,19 @@
 //Permite activar el popover
 $(document).ready(function() {
   var btn = $('.btn');
+  var loginBtn = $('.login-btn');
 
-  btn.on('click', function() {
-    btn.popover('show');
-  });
+  btn.popover('show');
+
+// Activa el subscribe-form
+  loginBtn.on('click', function(){
+    $('.subscribe-form').toggle();
+  })
+
+
+
 });
+  
 
-// Activa el modal form
+
+
