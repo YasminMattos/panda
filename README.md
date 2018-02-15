@@ -1,6 +1,10 @@
 # Love Love Panda Desu
 ----
-Love Love Panda Desu es un site informativo con todo lo que necesitas saber respecto a los pandas. 
+
+¡Sólo para los amantes de la naturaleza!
+
+Love Love Panda Desu es un site informativo con todo lo que necesitas saber sobre los pandas. 
+
 
 ![panda-preview](assets/images/sample-image.png)
 
