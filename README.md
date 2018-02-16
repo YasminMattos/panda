@@ -6,7 +6,7 @@ Love Love Panda Desu es una plataforma informativa ¡Sólo para los amantes de l
 
 ![panda-preview](assets/images/sample-image.png)
 
-## Desarrollado para
+## Elaborado para
 
 [Laboratoria](http://www.laboratoria.la/)
 
